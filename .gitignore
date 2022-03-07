@@ -1,0 +1,4 @@
+data/wetter/downloaded/*.csv
+data/wetter/downloaded/*.zip
+data/wetter/downloaded/*.p
+.Rproj.user

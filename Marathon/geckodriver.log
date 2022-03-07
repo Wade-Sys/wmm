@@ -1,0 +1,68 @@
+1635184048095	geckodriver	INFO	Listening on 127.0.0.1:41343
+1635184049097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNUAnGL"
+Sandbox: seccomp sandbox violation: pid 7514, tid 7514, syscall 95, args 0 140220957009202 17 18446744073709548167 140732057844916 140220957009184.
+Sandbox: seccomp sandbox violation: pid 7514, tid 7514, syscall 95, args 18 140220954879914 18446744073709551424 511 0 140732057826016.
+Sandbox: seccomp sandbox violation: pid 7534, tid 7534, syscall 95, args 0 140579269203250 17 18446744073709548167 140723577334963 140579269203232.
+Sandbox: seccomp sandbox violation: pid 7534, tid 7534, syscall 95, args 18 140579267073962 18446744073709551424 511 0 140723577318096.
+1635184051997	Marionette	INFO	Listening on port 36393
+1635184052027	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+Sandbox: seccomp sandbox violation: pid 7614, tid 7614, syscall 95, args 0 139981065942322 17 18446744073709548167 140721245068447 139981065942304.
+Sandbox: seccomp sandbox violation: pid 7614, tid 7614, syscall 95, args 18 139981063813034 18446744073709551424 511 0 140721245057232.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1635184128254	Marionette	INFO	Stopped listening on port 36393
+1635184135885	geckodriver	INFO	Listening on 127.0.0.1:43071
+1635184135889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoqT40o"
+Sandbox: seccomp sandbox violation: pid 7808, tid 7808, syscall 95, args 0 139870224635186 17 18446744073709548167 140726586924212 139870224635168.
+Sandbox: seccomp sandbox violation: pid 7808, tid 7808, syscall 95, args 18 139870222505898 18446744073709551424 511 0 140726586904144.
+Sandbox: seccomp sandbox violation: pid 7828, tid 7828, syscall 95, args 0 139767435806002 17 18446744073709548167 140728501759155 139767435805984.
+Sandbox: seccomp sandbox violation: pid 7828, tid 7828, syscall 95, args 18 139767433676714 18446744073709551424 511 0 140728501742064.
+1635184138717	Marionette	INFO	Listening on port 35003
+1635184138797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635184315291	geckodriver	INFO	Listening on 127.0.0.1:50907
+1635184315295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY8Ojy1"
+Sandbox: seccomp sandbox violation: pid 8131, tid 8131, syscall 95, args 0 140528887092530 17 18446744073709548167 140732705586356 140528887092512.
+Sandbox: seccomp sandbox violation: pid 8131, tid 8131, syscall 95, args 18 140528884963242 18446744073709551424 511 0 140732705572464.
+Sandbox: seccomp sandbox violation: pid 8151, tid 8151, syscall 95, args 0 139796963161394 17 18446744073709548167 140733783985331 139796963161376.
+Sandbox: seccomp sandbox violation: pid 8151, tid 8151, syscall 95, args 18 139796961032106 18446744073709551424 511 0 140733783972336.
+1635184318050	Marionette	INFO	Listening on port 32991
+1635184318125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635184354578	geckodriver	INFO	Listening on 127.0.0.1:56129
+1635184354583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJ09eps"
+Sandbox: seccomp sandbox violation: pid 8409, tid 8409, syscall 95, args 0 140655861232946 17 18446744073709548167 140731863915700 140655861232928.
+Sandbox: seccomp sandbox violation: pid 8409, tid 8409, syscall 95, args 18 140655859103658 18446744073709551424 511 0 140731863901760.
+Sandbox: seccomp sandbox violation: pid 8429, tid 8429, syscall 95, args 0 140059397670194 17 18446744073709548167 140727901396147 140059397670176.
+Sandbox: seccomp sandbox violation: pid 8429, tid 8429, syscall 95, args 18 140059395540906 18446744073709551424 511 0 140727901384080.
+1635184357349	Marionette	INFO	Listening on port 45563
+1635184357390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+JavaScript error: https://www.bmw-berlin-marathon.com/typo3conf/ext/scc_timing/Resources/Public/Js/main.js?1609859708, line 1: TypeError: t is undefined
+1635185603858	Marionette	INFO	Stopped listening on port 45563
